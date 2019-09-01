@@ -1,5 +1,7 @@
 public class HelloWorld{
   public static void main(String[] args){
-      System.out.println("My first Github Learning Course.")
+      int a =1;
+      int b=2;
+      System.out.println("a+b=3");
     } 
 }
